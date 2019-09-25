@@ -1,0 +1,2 @@
+1. check the loop signature to looping times
+2. Compare Integer by .equals() nt by ==
